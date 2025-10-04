@@ -32,7 +32,7 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 #### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
 - Reduced a **critical script runtime** from **22.5 hours → 40 minutes** by redesigning logic in Pandas.  
 - Generated 140K+ records with 100% accuracy, removing major downstream delays.  
-- Became to go-to person to in the team to lead any new tech-stack for erterprise development
+- Became to go-to person to in the team to lead any new tech-stack for enterprise development
 
 #### 🔹 FastAPI Excel Automation System  
 - Delivered a backend system to **read and update Excel sheets reliably**.  
