@@ -7,7 +7,7 @@
 ---
 
 ###  About Me  
-I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building scalable, resilient systems and experimenting with technologies to create POCs to analyse technical debt or that can be scaled later on into enterprise applications.  
+I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building scalable, resilient systems and experimenting with technologies that push boundaries.  
 
 I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
 
@@ -32,11 +32,12 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 #### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
 - Reduced a **critical script runtime** from **22.5 hours → 40 minutes** by redesigning logic in Pandas.  
 - Generated 140K+ records with 100% accuracy, removing major downstream delays.  
-- Demonstrated ownership, adaptability, and problem-solving under pressure.  
+- Demonstrated ownership, adaptability, and problem-solving under pressure.
+- Became to go-to person to in the team to lead any new tech-stack
 
 #### 🔹 FastAPI Excel Automation System  
 - Delivered a backend system to **read and update Excel sheets reliably**.  
-- Learned FastAPI from scratch within days, proving adaptability and quick upskilling.  
+- Learned and led the team on creating an enterprise FastAPI project from scratch, proving adaptability and quick upskilling.  
 
 ---
 
