@@ -7,7 +7,7 @@
 ---
 
 ###  About Me  
-I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building **scalable, resilient systems** and experimenting with technologies that push boundaries.  
+I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building **scalable, resilient systems** and experimenting with technologies to create POCs that can be scaled later on.  
 
 I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
 
