@@ -7,17 +7,17 @@
 ---
 
 ###  About Me  
-I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building scalable, resilient systems and experimenting with technologies that push boundaries.  
+I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building scalable, resilient systems and experimenting with new technologies.  
 
 I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
 
 ---
 
 ### Tech Stack  
-**Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React 
-**Databases:**  MongoDB, MySQL, Neo4j
-**Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-**Other Interests:** LLMs, Agentic AI, Multi-Agent Systems, RAG systems, Data Science with Pandas  
+1) **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React 
+2) **Databases:**  MongoDB, MySQL, Neo4j
+3) **Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
+4) **Other Interests:** LLMs, Agentic AI, Multi-Agent Systems, RAG systems, Data Science with Pandas  
 
 ---
 
@@ -32,8 +32,7 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 #### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
 - Reduced a **critical script runtime** from **22.5 hours → 40 minutes** by redesigning logic in Pandas.  
 - Generated 140K+ records with 100% accuracy, removing major downstream delays.  
-- Demonstrated ownership, adaptability, and problem-solving under pressure.
-- Became to go-to person to in the team to lead any new tech-stack
+- Became to go-to person to in the team to lead any new tech-stack for erterprise development
 
 #### 🔹 FastAPI Excel Automation System  
 - Delivered a backend system to **read and update Excel sheets reliably**.  
