@@ -36,7 +36,7 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 
 #### 🔹 FastAPI Excel Automation System  
 - Delivered a backend system to **read and update Excel sheets reliably**.  
-- Learned and led the team on creating an enterprise FastAPI project from scratch, proving adaptability and quick upskilling.  
+- Learned and led the team on creating an enterprise FastAPI project from scratch with mongoDB database.  
 
 ---
 
