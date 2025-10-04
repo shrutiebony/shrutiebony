@@ -13,7 +13,7 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 
 ---
 
-### 💻 Tech Stack  
+### Tech Stack  
 **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React 
 **Databases:**  MongoDB, MySQL, Neo4j
 **Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
@@ -53,13 +53,13 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 
 ---
 
-### ✨ Fun Fact  
+### Fun Fact  
 For most people, stability is the foundation and novelty is a bonus.  
 For me, **novelty is the foundation** — it fuels me to grow, build, and deliver.  
 
 ---
 
-## 📫 Let’s Connect  
+### Let’s Connect  
 - 📧 Email: [shruti.goyal.zad@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shrutigoyal24/]  
 - 🌐 Portfolio: [(https://shrutig-ux.github.io/Portfolio-website/)](https://shrutig-ux.github.io/Portfolio-website/)]  
