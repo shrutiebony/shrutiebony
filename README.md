@@ -9,11 +9,11 @@
 ###  About Me  
 I am an AI Systems Engineer focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, and Network Science**
 
-I am passionate about building AI systems that move beyond individual models, systems that understand relationships, reason over structured data, and help organizations make better decisions.
+I build AI systems that can reason over enterprise knowledge, discover tools, and automate complex workflows: combining Agentic AI, MCP, RAG, Knowledge Graphs, and Network Intelligence.
 
 At Cisco Webex, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, invoke, and orchestrate enterprise APIs to generate context-aware responses.
 
-Previously at Tech Mahindra (BT Group), I built enterprise knowledge graph and network intelligence solutions for telecom systems, modeling relationships between network infrastructure, services, applications, and customers to enable dependency analysis, impact assessment, and operational insights.
+Previously at Tech Mahindra (BT Group), I created telecom network intelligence systems by modeling complex relationships between infrastructure, services, and customers using knowledge graphs to enable dependency analysis, impact prediction, and operational decision-making using **Neo4j, Spark, Python, Graph Analytics and Spark**
 
 I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
 
@@ -38,10 +38,11 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 - Built a **chat-based interface** to surface available tools and guide users interactively.  
 
 #### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
-- Modeled relationships between network infrastructure, services, applications, and customers using knowledge graphs.
-- Developed graph analytics pipelines for dependency discovery and service impact analysis.
-- Used graph technologies to identify relationships across large-scale enterprise datasets.
-- Built solutions supporting operational intelligence and root-cause analysis.
+- Modeled relationships between network infrastructure, services, applications, and customers using knowledge graphs from SQL data in Neo4j graph Database. 
+- Developed graph analytics pipelines for dependency discovery, service impact analysis, and relationship exploration using Graph Analytics, Knowledge Graphs, Spark and Python.
+- Processed large-scale structured and operational datasets to create network lineage and dependency models.
+- Used graph technologies to identify how changes or failures propagate across interconnected systems.
+- Built solutions supporting root-cause analysis and operational intelligence.
 
 #### Focus areas:
 
