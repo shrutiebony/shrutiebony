@@ -63,7 +63,6 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 
 ---
 ### Currently Exploring
-- Currently Exploring
 - Graph Foundation Models
 - Enterprise AI Agents
 - Knowledge Graph Reasoning
