@@ -7,17 +7,25 @@
 ---
 
 ###  About Me  
-I’m a **Software Engineer** with a passion for **backend systems, applied AI, and data science**. With 3 years of industry experience in **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I love building scalable, resilient systems and experimenting with new technologies.  
+I am an AI Systems Engineer focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, and Network Science**
+
+I am passionate about building AI systems that move beyond individual models, systems that understand relationships, reason over structured data, and help organizations make better decisions.
+
+At Cisco Webex, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, invoke, and orchestrate enterprise APIs to generate context-aware responses.
+
+Previously at Tech Mahindra (BT Group), I built enterprise knowledge graph and network intelligence solutions for telecom systems, modeling relationships between network infrastructure, services, applications, and customers to enable dependency analysis, impact assessment, and operational insights.
 
 I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
 
 ---
 
 ### Tech Stack  
-1) **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React 
+1) **AI Workflow Automation**: AI Systems, Agentic AI, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems
+2) **Graph Intelligence** : Knowledge Graphs, Graph Machine Learning, Network Sciences, Entity Relationships & Data Lineage
+3) **Machine Learning**: Deep Learning, Transformers, Data Mining, Reinforcement Learning
+1) **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React, GraphQL, Rest  APIs, Apache Kafka, 
 2) **Databases:**  MongoDB, MySQL, Neo4j
 3) **Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-4) **Other Interests:** LLMs, Agentic AI, Multi-Agent Systems, RAG systems, Data Science with Pandas  
 
 ---
 
@@ -30,32 +38,36 @@ I’ve worked on everything from optimizing enterprise code to building **multi-
 - Built a **chat-based interface** to surface available tools and guide users interactively.  
 
 #### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
-- Reduced a **critical script runtime** from **22.5 hours → 40 minutes** by redesigning logic in Pandas.  
-- Generated 140K+ records with 100% accuracy, removing major downstream delays.  
-- Became to go-to person to in the team to lead any new tech-stack for enterprise development
+- Modeled relationships between network infrastructure, services, applications, and customers using knowledge graphs.
+- Developed graph analytics pipelines for dependency discovery and service impact analysis.
+- Used graph technologies to identify relationships across large-scale enterprise datasets.
+- Built solutions supporting operational intelligence and root-cause analysis.
 
-#### 🔹 FastAPI Excel Automation System  
-- Delivered a backend system to **read and update Excel sheets reliably**.  
-- Learned and led the team on creating an enterprise FastAPI project from scratch with mongoDB database.  
+#### Focus areas:
+
+- Converting relational data into entity-relation graphs.
+- Learning graph representations using transformer architectures.
+- Predicting missing relationships through link prediction.
+- Evaluating generalization across structured datasets. 
 
 ---
 
 ### Beyond Code  
-- **Toastmasters VP Education** → coached newcomers in public speaking and leadership.  
+- **Toastmasters VP Education** → coached newcomers in public speaking and leadership.
+- **Hackathon Winner**
+      - Winner of AWS Hackathon (Amazon + Box)
+      - Winner of Qualcomm Local AI Hack Night
 - **Co-author of a book chapter**.  
 - **Industry webinar speaker** → breaking down complex tech into accessible, inspiring insights.  
 
 ---
-
-### Currently Learning  
-- Exploring how **multi-agent systems + data science** can shape the next wave of enterprise AI.  
-- Improving at **system design for scale and resiliency**.  
-
----
-
-### Fun Fact  
-For most people, stability is the foundation and novelty is a bonus.  
-For me, **novelty is the foundation** — it fuels me to grow, build, and deliver.  
+### Currently Exploring
+- Currently Exploring
+- Graph Foundation Models
+- Enterprise AI Agents
+- Knowledge Graph Reasoning
+- AI Systems Architecture
+- Network Science for Emerging Technologies
 
 ---
 
