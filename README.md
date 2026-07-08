@@ -1,6 +1,6 @@
 ---
 
-###  About Me  
+### 🌟 About Me  
 I’m an **AI Systems Engineer** focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, Retrieval-Augmented Generation (RAG), and Network Science**. With 3+ years of industry experience in **backend engineering, distributed systems, graph databases, and enterprise software development**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I enjoy building systems that connect AI reasoning with real-world enterprise workflows.
 
 I am passionate about designing AI systems that can understand relationships, reason over structured and unstructured data, and assist organizations in making data-driven decisions.
@@ -15,7 +15,7 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ---
 
-### Tech Stack  
+### 🌟 Tech Stack  
 1) **Graph Intelligence** : Knowledge Graphs, Neo4j, Graph Analytics, Network Science, Entity Relationships, Data Lineage, Graph Machine Learning  
 2) **Languages & Frameworks:** Python, Java, FastAPI, Spring Boot, REST APIs  
 3) **AI Workflow Automation**: Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems  
@@ -49,7 +49,7 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ---
 
-### Beyond Code  
+### 🌟 Beyond Code  
 - **Toastmasters VP Education** → coached members in public speaking, communication, and leadership development.  
 - **Hackathon Winner**
       - Winner of AWS Hackathon (Amazon + Box)
@@ -60,16 +60,19 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ---
 
-### Currently Learning  
-- Exploring how **Agentic AI, Knowledge Graphs, and Network Science** can improve enterprise intelligence systems.  
 
----
-
-### Currently Exploring
+### 🌟 Currently Exploring
 - Graph Foundation Models
 - Enterprise AI Agents
 - Knowledge Graph Reasoning
 - AI Systems Architecture
 - Network Science for Emerging Technologies
+
+### 📫 Let's Connect
+
+📧 Email: shruti.goyal.zad@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
+🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
+🐙 GitHub: https://github.com/shrutiebony
 
 ---
