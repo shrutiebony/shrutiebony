@@ -1,9 +1,9 @@
-# Hi there 👋, I’m Shruti Goyal
+#### Hi there 👋, I’m Shruti Goyal
 
-### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
+###### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
 
 
-## 🌟 About Me
+#### 🌟 About Me
 
 I am an **AI Systems Engineer** passionate about building intelligent, scalable systems at the intersection of **Agentic AI, Knowledge Graphs, and Distributed Systems**.
 
@@ -18,7 +18,7 @@ Currently, I am researching **generative AI adoption patterns using NLP and netw
 
 ---
 
-# 🚀 Technical Focus
+#### 🚀 Technical Focus
 Artificial Intelligence & AI Systems - Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems
 Graph Intelligence & Network Science: Knowledge Graphs, Graph Databases, Graph Analytics, Network Science
 Machine Learning & Data: Natural Language Processing (NLP), Transformers, Deep Learning, Reinforcement Learning, Data Mining, Statistical Analysis
@@ -27,9 +27,9 @@ Databases & Infrastructure: Neo4j, MongoDB, MySQL,
 
 ---
 
-# 🌟 Highlight Projects
+#### 🌟 Highlight Projects
 
-## 🔹 Agentic API Orchestration System (Cisco Webex Internship)
+###### 🔹 Agentic API Orchestration System (Cisco Webex Internship)
 
 Built an **MCP-based Agentic AI platform** integrating LLM agents, tool orchestration, and RAG.
 
@@ -52,7 +52,7 @@ Key contributions:
 
 ---
 
-## 🔹 Telecom Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)
+###### 🔹 Telecom Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)
 
 Designed graph-based infrastructure intelligence systems using **Neo4j, Python, Apache Spark, Kafka, and microservices**.
 
@@ -75,7 +75,7 @@ Key contributions:
 
 ---
 
-## 🔹 Generative AI Adoption & Network Analysis Research
+###### 🔹 Generative AI Adoption & Network Analysis Research
 
 Researching how generative AI adoption evolves across online communities and organizations.
 
@@ -102,7 +102,7 @@ Current work includes:
 
 ---
 
-# 🏆 Achievements
+#### 🏆 Achievements
 
 🏅 **Local AI Hackathon Winner — Qualcomm**  
 🏅 **AWS Hackathon Winner (Amazon + Box)**  
@@ -112,7 +112,7 @@ Current work includes:
 
 ---
 
-# 🎤 Beyond Engineering
+#### 🎤 Beyond Engineering
 
 - Vice President Education — Toastmasters Club
 - Mentored members in communication, leadership, and public speaking
@@ -121,7 +121,7 @@ Current work includes:
 
 ---
 
-# 🔬 Currently Exploring
+#### 🔬 Currently Exploring
 
 - Graph Foundation Models
 - Knowledge Graph Reasoning
@@ -129,7 +129,7 @@ Current work includes:
 
 ---
 
-# 📫 Let's Connect
+#### 📫 Let's Connect
 
 📧 Email: shruti.goyal.zad@gmail.com
 
