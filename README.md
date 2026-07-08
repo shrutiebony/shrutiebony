@@ -25,28 +25,6 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ---
 
-#### 🔹 Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)  
-- Designed and implemented a **graph-based CMDB using Neo4j** to represent 25K+ configuration items, network topology, and service dependencies.
-- Developed pipelines using **Python, Apache Spark, Kafka, and microservices** to ingest operational data, network events, and configuration updates.
-- Built graph analytics workflows for dependency discovery, fault impact analysis, and root-cause analysis.
-- Created graph-based representations to understand relationships between infrastructure components, applications, services, and customers.
-- Enabled engineering teams to explore dependency paths and analyze failure propagation across enterprise systems.
-
-#### 🔹 MCP-Based Agentic AI System (Cisco Webex Internship)  
-- Developed a proof-of-concept **MCP-based Agentic AI system** integrating LLM agents, tool orchestration, and RAG.
-- Enabled AI agents to dynamically add, discover, invoke, and remove HTTP API tools at runtime.
-- Designed workflows to process API responses including JSON and ZIP-based data sources.
-- Implemented automatic documentation generation and error explanations for dynamically created tools.
-- Built a conversational interface for users to interact with AI agents and discover available capabilities.
-
-#### 🔹 Generative AI Adoption Research (Rutgers University)  
-- Built pipelines to collect and analyze publicly available text data from Reddit, X, Internet Archive, Common Crawl, and GDELT.
-- Applied NLP and statistical analysis techniques to study characteristics of AI-generated and AI-assisted content.
-- Created network-based representations to analyze relationships between AI tools, organizations, and online communities.
-- Compared AI adoption patterns before and after the introduction of ChatGPT.
-
----
-
 ### 🌟 Beyond Code  
 - **Toastmasters VP Education** → coached members in public speaking, communication, and leadership development.  
 - **Hackathon Winner**
