@@ -1,7 +1,7 @@
 ---
 
 ### 🌟 About Me  
-I’m an **AI Systems Engineer** focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, Retrieval-Augmented Generation (RAG), and Network Science**. With 3+ years of industry experience in **backend engineering, distributed systems, graph databases, and enterprise software development**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I enjoy building systems that connect AI reasoning with real-world enterprise workflows.
+I’m an **AI Systems Engineer** focused on building intelligent, scalable systems in **Agentic AI, Knowledge Graphs, Retrieval-Augmented Generation (RAG), and recently Network Science**. With 3+ years of industry experience in **backend engineering, distributed systems and graph development**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I enjoy building systems that connect AI reasoning with real-world enterprise workflows.
 
 I am passionate about designing AI systems that can understand relationships, reason over structured and unstructured data, and assist organizations in making data-driven decisions.
 
