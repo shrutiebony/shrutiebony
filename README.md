@@ -1,6 +1,7 @@
-### Hi there 👋, I’m Shruti Goyal
+## Hi there 👋, I’m Shruti Goyal
 
-###### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
+
+
 
 
 #### 🌟 About Me
@@ -18,7 +19,7 @@ Currently, I am researching **generative AI adoption patterns using NLP and netw
 
 ---
 
-#### 🚀 Technical Focus
+##### 🚀 Technical Focus
 Artificial Intelligence & AI Systems - Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems
 Graph Intelligence & Network Science: Knowledge Graphs, Graph Databases, Graph Analytics, Network Science
 Machine Learning & Data: Natural Language Processing (NLP), Transformers, Deep Learning, Reinforcement Learning, Data Mining, Statistical Analysis
