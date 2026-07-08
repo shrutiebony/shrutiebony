@@ -9,7 +9,7 @@ At **Cisco Webex**, I worked on an **Agentic AI system using MCP (Model Context 
 
 Previously at **Tech Mahindra (BT Group)**, I developed **knowledge graph-based telecom intelligence solutions** using Neo4j, Python, Apache Spark, Kafka, and microservices. I modeled relationships between network infrastructure, services, applications, and customers to support dependency analysis, impact assessment, and operational intelligence.
 
-Currently at **Rutgers University**, I research **generative AI adoption patterns** by applying NLP, web-scale data collection, and network analysis techniques to understand how AI technologies spread across communities and organizations.
+Currently at **Rutgers University**, I contribute to research on **generative AI adoption patterns** by applying NLP, web-scale data collection, and network analysis techniques to understand how AI technologies spread across communities and organizations.
 
 I’ve worked across enterprise software engineering, graph-based systems, and AI applications, and I enjoy solving problems that combine **scalable infrastructure with intelligent systems**.  
 
