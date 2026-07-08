@@ -1,4 +1,4 @@
-#### Hi there 👋, I’m Shruti Goyal
+### Hi there 👋, I’m Shruti Goyal
 
 ###### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
 
