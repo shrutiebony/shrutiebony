@@ -1,79 +1,140 @@
+# Hi there, I’m Shruti Goyal
+
+### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
 
 
-## Hi there 👋, I’m Shruti  
+## About Me
 
-*"Turning curiosity into code"*  
+I am an **AI Systems Engineer** passionate about building intelligent, scalable systems at the intersection of **Agentic AI, Knowledge Graphs, and Distributed Systems**.
+
+My work focuses on designing AI systems that can reason over enterprise knowledge, discover and use tools dynamically, and automate complex workflows.
+
+At **Cisco Webex**, I developed a proof-of-concept **MCP-based Agentic AI system** that combines LLM agents, tool orchestration, and RAG. The system enables AI agents to dynamically discover, register, invoke, and manage enterprise APIs while generating context-aware responses from structured and unstructured data.
+
+Previously at **Tech Mahindra (BT Group)**, I built **knowledge graph-based telecom intelligence systems** using Neo4j, Python, Apache Spark, Kafka, and microservices. I modeled relationships between network infrastructure, services, applications, and customers to enable dependency analysis, fault impact analysis, and operational intelligence across large-scale telecom environments.
+
+Currently, I am researching **generative AI adoption patterns using NLP and network analysis**, studying how AI technologies spread across online communities, organizations, and ecosystems.
+
 
 ---
 
-###  About Me  
-I am an AI Systems Engineer focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, and Network Science**
-
-I build AI systems that can reason over enterprise knowledge, discover tools, and automate complex workflows: combining Agentic AI, MCP, RAG, Knowledge Graphs, and Network Intelligence.
-
-At Cisco Webex, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, invoke, and orchestrate enterprise APIs to generate context-aware responses.
-
-Previously at Tech Mahindra (BT Group), I created telecom network intelligence systems by modeling complex relationships between infrastructure, services, and customers using knowledge graphs to enable dependency analysis, impact prediction, and operational decision-making using **Neo4j, Spark, Python, Graph Analytics and Spark**
-
-I’ve worked on everything from optimizing enterprise code to building **multi-agent AI systems**, and I thrive when solving problems that combine **scalable enterprise systems with AI**.  
+# 🚀 Technical Focus
+Artificial Intelligence & AI Systems - Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems
+Graph Intelligence & Network Science: Knowledge Graphs, Graph Databases, Graph Analytics, Network Science
+Machine Learning & Data: Natural Language Processing (NLP), Transformers, Deep Learning, Reinforcement Learning, Data Mining, Statistical Analysis
+Software Engineering: Python, Java, FastAPI, Spring Boot, REST APIs, Apache Kafka, Apache Spark
+Databases & Infrastructure: Neo4j, MongoDB, MySQL,
 
 ---
 
-### Tech Stack  
-1) **AI Workflow Automation**: AI Systems, Agentic AI, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems
-2) **Graph Intelligence** : Knowledge Graphs, Graph Machine Learning, Network Sciences, Entity Relationships & Data Lineage
-3) **Machine Learning**: Deep Learning, Transformers, Data Mining, Reinforcement Learning
-1) **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React, GraphQL, Rest  APIs, Apache Kafka, 
-2) **Databases:**  MongoDB, MySQL, Neo4j
-3) **Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
+# 🌟 Highlight Projects
+
+## 🔹 Agentic API Orchestration System (Cisco Webex Internship)
+
+Built an **MCP-based Agentic AI platform** integrating LLM agents, tool orchestration, and RAG.
+
+Key contributions:
+
+- Designed an MCP architecture enabling AI agents to dynamically:
+  - Register new API tools
+  - Discover available tools
+  - Invoke HTTP APIs (GET, POST, PUT, DELETE)
+  - Remove tools at runtime
+
+- Implemented intelligent orchestration workflows to:
+  - Chain multiple tools
+  - Process JSON and ZIP responses
+  - Generate human-readable answers
+
+- Built automatic documentation and error explanation generation for dynamically added tools.
+
+- Developed a Streamlit-based conversational interface for system introspection and AI-assisted tool discovery.
 
 ---
 
-### Highlight Projects  
+## 🔹 Telecom Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)
 
-#### 🔹 Agentic API System (Cisco Internship)  
-- Designed and implemented a **multi-agent MCP system** leveraging **RAG + MCP**.  
-- Enabled LLM agents to dynamically add, delete, and call HTTP APIs at runtime (GET/POST/PUT/DELETE).  
-- Supported both JSON and ZIP responses, with **auto-generated documentation and error reporting**.  
-- Built a **chat-based interface** to surface available tools and guide users interactively.  
+Designed graph-based infrastructure intelligence systems using **Neo4j, Python, Apache Spark, Kafka, and microservices**.
 
-#### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
-- Modeled relationships between network infrastructure, services, applications, and customers using knowledge graphs from SQL data in Neo4j graph Database. 
-- Developed graph analytics pipelines for dependency discovery, service impact analysis, and relationship exploration using Graph Analytics, Knowledge Graphs, Spark and Python.
-- Processed large-scale structured and operational datasets to create network lineage and dependency models.
-- Used graph technologies to identify how changes or failures propagate across interconnected systems.
-- Built solutions supporting root-cause analysis and operational intelligence.
+Key contributions:
 
-#### Focus areas:
+- Modeled 25K+ telecom configuration items (CIs), services, and dependencies as a knowledge graph.
 
-- Converting relational data into entity-relation graphs.
-- Learning graph representations using transformer architectures.
-- Predicting missing relationships through link prediction.
-- Evaluating generalization across structured datasets. 
+- Built pipelines to ingest:
+  - Network events
+  - Configuration updates
+  - Operational data
+
+- Developed graph analytics solutions for:
+  - Dependency discovery
+  - Fault impact analysis
+  - Root cause analysis
+  - Service relationship exploration
+
+- Enabled engineering teams to understand failure propagation paths across complex telecom infrastructure.
+
+---
+
+## 🔹 Generative AI Adoption & Network Analysis Research
+
+Researching how generative AI adoption evolves across online communities and organizations.
+
+Current work includes:
+
+- Collecting large-scale public datasets from:
+  - Reddit
+  - X
+  - Internet Archive
+  - Common Crawl
+  - GDELT
+
+- Building NLP pipelines for:
+  - Text extraction
+  - Cleaning
+  - Processing
+  - Statistical analysis
+
+- Creating network representations to study relationships between:
+  - AI tools
+  - Organizations
+  - Communities
+  - Adoption patterns
 
 ---
 
-### Beyond Code  
-- **Toastmasters VP Education** → coached newcomers in public speaking and leadership.
-- **Hackathon Winner**
-      - Winner of AWS Hackathon (Amazon + Box)
-      - Winner of Qualcomm Local AI Hack Night
-- **Co-author of a book chapter**.  
-- **Industry webinar speaker** → breaking down complex tech into accessible, inspiring insights.  
+# 🏆 Achievements
+
+🏅 **Local AI Hackathon Winner — Qualcomm**  
+🏅 **AWS Hackathon Winner (Amazon + Box)**  
+🏅 **Best Speaker Award — AQTNinja**  
+🏅 **Pat on the Back Award — Tech Mahindra**  
+📚 **Co-author of a book chapter**  
 
 ---
-### Currently Exploring
+
+# 🎤 Beyond Engineering
+
+- Vice President Education — Toastmasters Club
+- Mentored members in communication, leadership, and public speaking
+- Technical workshop speaker on Git, Microservices, and Software Engineering
+- Passionate about explaining complex technology through simple stories
+
+---
+
+# 🔬 Currently Exploring
+
 - Graph Foundation Models
-- Enterprise AI Agents
 - Knowledge Graph Reasoning
-- AI Systems Architecture
-- Network Science for Emerging Technologies
+- Enterprise AI Agents
 
 ---
 
-### Let’s Connect  
-- 📧 Email: [shruti.goyal.zad@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/shrutigoyal24/]  
-- 🌐 Portfolio: [(https://shrutig-ux.github.io/Portfolio-website/)](https://shrutig-ux.github.io/Portfolio-website/)]  
+# 📫 Let's Connect
 
----
+📧 Email: shruti.goyal.zad@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
+
+🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
+
+🐙 GitHub: https://github.com/shrutiebony
