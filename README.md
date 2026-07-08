@@ -1,72 +1,69 @@
 ---
 
 ###  About Me  
-I’m an **AI Systems Engineer** with a passion for **knowledge graphs, agentic AI and distributed systems**. With 3+ years of industry experience building scalable systems using **Spring Boot, FastAPI, Apache Kafka, GraphQL, MongoDB, Neo4j, and REST APIs**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I enjoy designing intelligent systems that combine software engineering with AI.
+I’m an **AI Systems Engineer** focused on building intelligent, scalable systems that combine **Agentic AI, Knowledge Graphs, Retrieval-Augmented Generation (RAG), and Network Science**. With 3+ years of industry experience in **backend engineering, distributed systems, graph databases, and enterprise software development**, and currently pursuing my **Master’s in Software Engineering (Data Science specialization) at San Jose State University**, I enjoy building systems that connect AI reasoning with real-world enterprise workflows.
 
-I focus on building AI systems that move beyond individual models — systems that understand relationships, reason over structured data, and help organizations make better decisions.
+I am passionate about designing AI systems that can understand relationships, reason over structured and unstructured data, and assist organizations in making data-driven decisions.
 
-At Cisco Webex, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, invoke, and orchestrate enterprise APIs to generate context-aware responses.
+At **Cisco Webex**, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, register, invoke, and orchestrate enterprise APIs. I built workflows for dynamic tool execution, API response processing, documentation generation, and conversational system interaction.
 
-Previously at Tech Mahindra (BT Group), I built enterprise **knowledge graph and network intelligence solutions** for telecom systems, modeling relationships between network infrastructure, services, applications, and customers to enable dependency analysis, impact assessment, and operational insights.
+Previously at **Tech Mahindra (BT Group)**, I developed **knowledge graph-based telecom intelligence solutions** using Neo4j, Python, Apache Spark, Kafka, and microservices. I modeled relationships between network infrastructure, services, applications, and customers to support dependency analysis, impact assessment, and operational intelligence.
 
-I’ve worked on everything from optimizing enterprise code to building **agentic AI systems**, and I thrive when solving problems that combine **scalable enterprise systems, graph intelligence, and AI**.  
+Currently at **Rutgers University**, I research **generative AI adoption patterns** by applying NLP, web-scale data collection, and network analysis techniques to understand how AI technologies spread across communities and organizations.
+
+I’ve worked across enterprise software engineering, graph-based systems, and AI applications, and I enjoy solving problems that combine **scalable infrastructure with intelligent systems**.  
 
 ---
 
 ### Tech Stack  
-1) **Languages & Frameworks:** Java, Python, FastAPI, Spring Boot, React, GraphQL, REST APIs, Apache Kafka  
-2) **AI Workflow Automation**: AI Systems, Agentic AI, Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems  
-3) **Graph Intelligence** : Knowledge Graphs, Graph Machine Learning, Network Science, Entity Relationships, Data Lineage  
-4) **Machine Learning**: Deep Learning, Transformers, Data Mining, Reinforcement Learning, Natural Language Processing (NLP)  
-5) **Databases:** MongoDB, MySQL, Neo4j  
-6) **Cloud & Infra:** AWS, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-7) **Other Interests:** LLMs, Agentic Workflows, RAG Systems, Data Science with Pandas  
+1) **Graph Intelligence** : Knowledge Graphs, Neo4j, Graph Analytics, Network Science, Entity Relationships, Data Lineage, Graph Machine Learning  
+2) **Languages & Frameworks:** Python, Java, FastAPI, Spring Boot, REST APIs  
+3) **AI Workflow Automation**: Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Multi-Agent Systems  
+4) **Machine Learning**: Natural Language Processing (NLP), Transformers, Deep Learning, Data Mining, Statistical Analysis  
+5) **Data Engineering & Messaging:** Apache Kafka, Apache Spark
+6) **Databases:** Neo4j, MongoDB, MySQL  
 
 ---
 
-@@ -30,32 +38,36 @@ I’ve worked on everything from optimizing enterprise code to building **agentic
-- Built a **chat-based interface** to surface available tools and guide users interactively.  
+- Built a **chat-based interface** using Streamlit to surface available tools and enable interactive AI-assisted workflows.
 
-#### 🔹 Python Workflow Optimization (Tech Mahindra – BT Group)  
-- Reduced a **critical script runtime** from **22.5 hours → 40 minutes** by redesigning logic in Python and Pandas.  
-- Generated 140K+ records with 100% accuracy, removing major downstream delays.  
-- Became the go-to person on the team for adopting and leading new technology stacks for enterprise development.
-- Modeled relationships between network infrastructure, services, applications, and customers using **knowledge graphs in Neo4j**.
-- Developed graph analytics pipelines for dependency discovery, service impact analysis, and relationship exploration.
-- Used graph technologies to identify relationships and failure propagation paths across large-scale enterprise datasets.
-- Built solutions supporting operational intelligence and root-cause analysis.
+#### 🔹 Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)  
+- Designed and implemented a **graph-based CMDB using Neo4j** to represent 25K+ configuration items, network topology, and service dependencies.
+- Developed pipelines using **Python, Apache Spark, Kafka, and microservices** to ingest operational data, network events, and configuration updates.
+- Built graph analytics workflows for dependency discovery, fault impact analysis, and root-cause analysis.
+- Created graph-based representations to understand relationships between infrastructure components, applications, services, and customers.
+- Enabled engineering teams to explore dependency paths and analyze failure propagation across enterprise systems.
 
-#### Focus areas:
+#### 🔹 MCP-Based Agentic AI System (Cisco Webex Internship)  
+- Developed a proof-of-concept **MCP-based Agentic AI system** integrating LLM agents, tool orchestration, and RAG.
+- Enabled AI agents to dynamically add, discover, invoke, and remove HTTP API tools at runtime.
+- Designed workflows to process API responses including JSON and ZIP-based data sources.
+- Implemented automatic documentation generation and error explanations for dynamically created tools.
+- Built a conversational interface for users to interact with AI agents and discover available capabilities.
 
-#### 🔹 FastAPI Excel Automation System  
-- Delivered a backend system to **read, process, and update Excel sheets reliably**.  
-- Designed an enterprise FastAPI application integrated with MongoDB and guided the team through adoption of the technology stack.  
-- Converting relational data into entity-relation graphs.
-- Learning graph representations using transformer architectures.
-- Predicting missing relationships through link prediction.
-- Evaluating generalization across structured datasets. 
+#### 🔹 Generative AI Adoption Research (Rutgers University)  
+- Built pipelines to collect and analyze publicly available text data from Reddit, X, Internet Archive, Common Crawl, and GDELT.
+- Applied NLP and statistical analysis techniques to study characteristics of AI-generated and AI-assisted content.
+- Created network-based representations to analyze relationships between AI tools, organizations, and online communities.
+- Compared AI adoption patterns before and after the introduction of ChatGPT.
 
 ---
 
 ### Beyond Code  
-- **Toastmasters VP Education** → coached newcomers in public speaking and leadership.  
+- **Toastmasters VP Education** → coached members in public speaking, communication, and leadership development.  
 - **Hackathon Winner**
       - Winner of AWS Hackathon (Amazon + Box)
       - Winner of Qualcomm Local AI Hack Night
+- **Pat on the Back Award** → recognized for technical contributions at Tech Mahindra.  
 - **Co-author of a book chapter**.  
-- **Industry webinar speaker** → breaking down complex technology concepts into accessible, inspiring insights.  
+- **Industry webinar speaker** → explaining technical concepts through accessible and engaging presentations.  
 
 ---
 
 ### Currently Learning  
-- Exploring how **multi-agent systems + data science** can shape the next wave of enterprise AI.  
-- Improving at **system design for scale, reliability, and distributed architectures**.  
+- Exploring how **Agentic AI, Knowledge Graphs, and Network Science** can improve enterprise intelligence systems.  
 
 ---
-
-### Fun Fact  
-For most people, stability is the foundation and novelty is a bonus.  
-For me, **novelty is the foundation** — it fuels me to grow, build, and deliver.  
 
 ### Currently Exploring
 - Graph Foundation Models
