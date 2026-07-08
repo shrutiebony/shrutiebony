@@ -1,9 +1,9 @@
-# Hi there, I’m Shruti Goyal
+# Hi there 👋, I’m Shruti Goyal
 
 ### AI Systems Engineer | Agentic AI | Knowledge Graphs | Network Science
 
 
-## About Me
+## 🌟 About Me
 
 I am an **AI Systems Engineer** passionate about building intelligent, scalable systems at the intersection of **Agentic AI, Knowledge Graphs, and Distributed Systems**.
 
