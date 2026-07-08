@@ -25,8 +25,6 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ---
 
-- Built a **chat-based interface** using Streamlit to surface available tools and enable interactive AI-assisted workflows.
-
 #### 🔹 Knowledge Graph & Network Intelligence Platform (Tech Mahindra – BT Group)  
 - Designed and implemented a **graph-based CMDB using Neo4j** to represent 25K+ configuration items, network topology, and service dependencies.
 - Developed pipelines using **Python, Apache Spark, Kafka, and microservices** to ingest operational data, network events, and configuration updates.
