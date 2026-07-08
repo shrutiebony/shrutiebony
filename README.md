@@ -46,9 +46,9 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ### 📫 Let's Connect
 
-📧 Email: shruti.goyal.zad@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
-🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
-🐙 GitHub: https://github.com/shrutiebony
+1) 📧 Email: shruti.goyal.zad@gmail.com
+2) 💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
+3) 🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
+4) 🐙 GitHub: https://github.com/shrutiebony
 
 ---
