@@ -15,10 +15,10 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 ---
 
 ### 🌟 Tech Stack  
-**Programming**: Java, Python, C/C++, SQL
-**Graph & AI Infrastructure**: Neo4j, GraphQL, MCP, Agentic AI, RAG
-**Systems**: Apache Kafka, RabbitMQ, Spring Boot, FastAPI, Linux, REST APIs, Redis, MongoDB, Docker, Kubernetes, AWS (EC2, S3, Lambda, Cloudwatch, IAM, Cloudfront)
-**Core Areas**: Graph Computing, Distributed Systems, Graph Analytics
+1) **Programming**: Java, Python, C/C++, SQL
+2) **Graph & AI Infrastructure**: Neo4j, GraphQL, MCP, Agentic AI, RAG
+3) **Systems**: Apache Kafka, RabbitMQ, Spring Boot, FastAPI, Linux, REST APIs, Redis, MongoDB, Docker, Kubernetes, AWS (EC2, S3, Lambda, Cloudwatch, IAM, Cloudfront)
+4) **Core Areas**: Graph Computing, Distributed Systems, Graph Analytics
 
 ---
 
