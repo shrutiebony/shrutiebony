@@ -41,7 +41,7 @@ I’ve worked across enterprise software engineering, graph-based systems, and A
 
 ### 📫 Let's Connect
 
-1) 📧 Email: shruti.goyal.zad@gmail.com
+1) 📧 Email: shruti.goyal@sjsu.edu
 2) 💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
 3) 🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
 4) 🐙 GitHub: https://github.com/shrutiebony
