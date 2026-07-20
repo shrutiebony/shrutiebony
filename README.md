@@ -89,7 +89,3 @@ Mentored members in communication, leadership, and public speaking.
 🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
 
 🐙 GitHub: https://github.com/shrutiebony
-
----
-
-⭐ *I enjoy building systems that combine strong engineering foundations with intelligent reasoning capabilities.*
