@@ -1,4 +1,3 @@
-### 👋 Hi, I'm Shruti Goyal
 
 ##### 🌟 About Me
 
@@ -23,46 +22,11 @@ My interests include:
 
 ##### 🛠️ Tech Stack
 
-###### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-###### Backend & Distributed Systems
-- Spring Boot
-- FastAPI
-- REST APIs
-- GraphQL
-- Apache Kafka
-- RabbitMQ
-- Redis
-- Linux
-- Microservices
-- Agentic AI
-- Model Context Protocol (MCP)
-- Retrieval-Augmented Generation (RAG)
-
-###### AI & Graph Systems
-- Knowledge Graphs
-- Neo4j
-- Graph Databases
-- LLM Applications
-- AI Agents
-- Graph Analytics
-
-###### Cloud & Infrastructure
-- AWS (EC2, S3, Lambda, CloudWatch, IAM)
-- Docker
-- Kubernetes
-- Jenkins CI/CD
-- Terraform
-
-###### Databases
-- Neo4j
-- MongoDB
-- MySQL
-- PostgreSQL
+Backend & Distributed Systems: Spring Boot, FastAPI, REST APIs, GraphQL, Apache Kafka, RabbitMQ, Redis, Linux, Microservices, Agentic AI, Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG)
+AI & Graph Systems: Knowledge Graphs, Neo4j, Graph Databases, LLM Applications, AI Agents, Graph Analytics
+Cloud & Infrastructure: AWS (EC2, S3, Lambda, CloudWatch, IAM), Docker, Kubernetes, Jenkins CI/CD, Terraform
+Databases: Neo4j, MongoDB, MySQL, PostgreSQL
 
 ---
 
@@ -110,7 +74,6 @@ Mentored members in communication, leadership, and public speaking.
 #### 🌱 Currently Exploring
 
 - Graph Neural Networks & Graph Reasoning
-- Foundation Models for Structured Data
 - AI Agent Architectures
 - Distributed AI Infrastructure
 - High Performance Data Systems
