@@ -3,7 +3,7 @@
 
 I’m a **Software Engineer specializing in Distributed Systems, Backend Infrastructure, and AI-powered applications**. With **3+ years of industry experience**, I have built scalable cloud-native systems, microservices, graph-based platforms, and intelligent AI applications.
 
-I enjoy solving complex engineering problems at the intersection of **distributed computing, graph analytics, and artificial intelligence** — building systems that can process, connect, and reason over large-scale data.
+I enjoy solving complex engineering problems at the intersection of **distributed computing, graph analytics, and artificial intelligence** building systems that can process, connect, and reason over large-scale data.
 
 At **Cisco Webex**, I worked as a **Software Development Engineer II Intern**, where I designed and implemented an **agentic AI system using Model Context Protocol (MCP)** and LLM-based workflows. I built systems where AI agents could dynamically discover, register, and invoke tools at runtime, enabling autonomous task execution through multi-agent reasoning, parallel execution, and intelligent orchestration.
 
