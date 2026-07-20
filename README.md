@@ -1,49 +1,132 @@
----
+### 👋 Hi, I'm Shruti Goyal
 
-### 🌟 About Me  
-I’m a Distributed Systems Engineer and early AI Systems Researcher focused on building scalable intelligent systems in **distributed computing and graph analytics**. With **3+ years of industry experience in backend engineering, distributed systems, and graph-based platforms**, I specialize in designing systems that help organizations process, understand, and reason over complex data.
-I am passionate about designing AI systems that can understand relationships, reason over structured and unstructured data, and assist organizations in making data-driven decisions.
+##### 🌟 About Me
 
-At **Cisco Webex**, I worked on an **Agentic AI system using MCP (Model Context Protocol) and RAG**, enabling AI agents to dynamically discover, register, invoke, and orchestrate enterprise APIs. I built workflows for dynamic tool execution, API response processing, documentation generation, and conversational system interaction.
+I’m a **Software Engineer specializing in Distributed Systems, Backend Infrastructure, and AI-powered applications**. With **3+ years of industry experience**, I have built scalable cloud-native systems, microservices, graph-based platforms, and intelligent AI applications.
 
-Previously at **Tech Mahindra (BT Group)**, I developed **knowledge graph-based telecom intelligence solutions** using Neo4j, Python, Apache Spark, Kafka, and microservices. I modeled relationships between network infrastructure, services, applications, and customers to support dependency analysis, impact assessment, and operational intelligence.
+I enjoy solving complex engineering problems at the intersection of **distributed computing, graph analytics, and artificial intelligence** — building systems that can process, connect, and reason over large-scale data.
 
-Currently, through research at the Gnosis Research Center at **IIT Chicago, I explore high-performance data systems and scientific computing workflows**, focusing on reducing data movement overhead between scientific formats and AI/ML frameworks. I also contribute to distributed systems research involving scalable event processing, benchmarking, and fault-tolerant data pipelines.
+At **Cisco Webex**, I worked as a **Software Development Engineer II Intern**, where I designed and implemented an **agentic AI system using Model Context Protocol (MCP)** and LLM-based workflows. I built systems where AI agents could dynamically discover, register, and invoke tools at runtime, enabling autonomous task execution through multi-agent reasoning, parallel execution, and intelligent orchestration.
 
-I’ve worked across enterprise software engineering, graph-based systems, and AI applications, and I enjoy solving problems that combine **scalable infrastructure with intelligent systems**.  
+Previously at **BT Group (Tech Mahindra)**, I worked on enterprise-scale distributed systems involving **microservices, cloud infrastructure, Kafka, and knowledge graphs**. I contributed to migrating systems from MongoDB to Neo4j, transforming monolithic applications into scalable microservice architectures, implementing event-driven pipelines, and building telecom knowledge graph solutions for dependency analysis and root cause identification.
 
----
+Currently, I contribute to **distributed systems research at the University of California, Santa Cruz**, focusing on scalable event processing, benchmarking, and high-performance data workflows.
 
-### 🌟 Tech Stack  
-1) **Programming**: Java, Python, C/C++, SQL
-2) **Graph & AI Infrastructure**: Neo4j, GraphQL, MCP, Agentic AI, RAG
-3) **Systems**: Apache Kafka, RabbitMQ, Spring Boot, FastAPI, Linux, REST APIs, Redis, MongoDB, Docker, Kubernetes, AWS (EC2, S3, Lambda, Cloudwatch, IAM, Cloudfront)
-4) **Core Areas**: Graph Computing, Distributed Systems, Graph Analytics
-
----
-
-### 🌟 Beyond Code  
-- **Toastmasters VP Education** → coached members in public speaking, communication, and leadership development.  
-- **Hackathon Winner**
-      - Winner of AWS Hackathon (Amazon + Box)
-      - Winner of Qualcomm Local AI Hack Night
-- **Pat on the Back Award** → recognized for technical contributions at Tech Mahindra.  
-- **Co-author of a book chapter**.  
-- **Industry webinar speaker** → explaining technical concepts through accessible and engaging presentations.  
+My interests include:
+- 🤖 AI Systems & Agentic AI
+- 🌐 Distributed Systems
+- 🕸️ Knowledge Graphs & Graph Analytics
+- ☁️ Cloud-Native Infrastructure
+- ⚡ Scalable Data Processing Systems
 
 ---
 
+##### 🛠️ Tech Stack
 
-### 🌟 Currently Exploring
-- Graph Foundation Models
-- Knowledge Graph Reasoning
-- AI Systems Architecture
+###### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 📫 Let's Connect
+###### Backend & Distributed Systems
+- Spring Boot
+- FastAPI
+- REST APIs
+- GraphQL
+- Apache Kafka
+- RabbitMQ
+- Redis
+- Linux
+- Microservices
+- Agentic AI
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
 
-1) 📧 Email: shruti.goyal@sjsu.edu
-2) 💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
-3) 🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
-4) 🐙 GitHub: https://github.com/shrutiebony
+###### AI & Graph Systems
+- Knowledge Graphs
+- Neo4j
+- Graph Databases
+- LLM Applications
+- AI Agents
+- Graph Analytics
+
+###### Cloud & Infrastructure
+- AWS (EC2, S3, Lambda, CloudWatch, IAM)
+- Docker
+- Kubernetes
+- Jenkins CI/CD
+- Terraform
+
+###### Databases
+- Neo4j
+- MongoDB
+- MySQL
+- PostgreSQL
 
 ---
+
+##### 🚀 Featured Work
+
+##### 🤖 Agentic AI Systems — Cisco Webex
+- Designed an MCP-based AI agent architecture enabling dynamic tool discovery and execution.
+- Built multi-agent workflows supporting parallel execution, reasoning, and result aggregation.
+- Improved developer productivity by reducing manual API orchestration.
+
+##### 🕸️ Telecom Knowledge Graph Platform — BT Group
+- Built graph-based solutions using **Neo4j** to model telecom infrastructure relationships.
+- Developed dependency analysis workflows for root cause analysis.
+- Migrated enterprise systems toward scalable microservice architectures.
+
+##### ⚡ Distributed Streaming Systems — UC Santa Cruz Research
+- Benchmarking distributed event processing systems.
+- Evaluating scalable streaming architectures using Apache Kafka.
+- Improving performance and portability across computing environments.
+
+---
+
+#### 🏆 Achievements
+
+🏆 **AWS + Box AI Hackathon — Winning Team**  
+Built ContractGuardAI, an AI-powered contract analysis system using AWS Bedrock, Box AI, Python, and MCP integrations.
+
+🏆 **Qualcomm Local AI Hack Night — Winning Team**  
+Developed an MCP-based AI automation platform integrating enterprise APIs with LLM agents.
+
+⭐ **BT Group Awards**
+- Pat on the Back Award
+- Best Session Award
+- AQT Ninja Award  
+Recognized for technical contributions and engineering impact.
+
+📚 **Publication**
+Co-author of a chapter in *Research Handbook on Information Systems and Technology (Elgar, 2024).*
+
+🎤 **Toastmasters International — VP Education**
+Mentored members in communication, leadership, and public speaking.
+
+---
+
+#### 🌱 Currently Exploring
+
+- Graph Neural Networks & Graph Reasoning
+- Foundation Models for Structured Data
+- AI Agent Architectures
+- Distributed AI Infrastructure
+- High Performance Data Systems
+
+---
+
+#### 📫 Connect With Me
+
+📧 Email: shruti.goyal@sjsu.edu  
+
+💼 LinkedIn: https://www.linkedin.com/in/shrutigoyal24/
+
+🌐 Portfolio: https://shrutig-ux.github.io/Portfolio-website/
+
+🐙 GitHub: https://github.com/shrutiebony
+
+---
+
+⭐ *I enjoy building systems that combine strong engineering foundations with intelligent reasoning capabilities.*
