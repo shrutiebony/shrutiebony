@@ -7,6 +7,8 @@ I enjoy solving complex engineering problems at the intersection of **distribute
 
 At **Cisco Webex**, I worked as a **Software Development Engineer II Intern**, where I designed and implemented an **agentic AI system using Model Context Protocol (MCP)** and LLM-based workflows. I built systems where AI agents could dynamically discover, register, and invoke tools at runtime, enabling autonomous task execution through multi-agent reasoning, parallel execution, and intelligent orchestration.
 
+At Rutgers University-New Brunswick, I worked on building a distributed graph intelligence platform for extracting knowledge from large-scale public data sources. I designed a Kafka-based ingestion pipeline, developed document processing workflows, built knowledge graphs using Neo4j, implemented graph analytics using NetworkX, and exposed graph-based insights through FastAPI services. This work explored the intersection of distributed data systems, knowledge representation, graph analytics, and graph-based intelligence.
+
 Previously at **BT Group**, I worked on enterprise-scale distributed systems involving **microservices, cloud infrastructure, Kafka, and knowledge graphs**. I contributed to migrating systems from MongoDB to Neo4j, transforming monolithic applications into scalable microservice architectures, implementing event-driven pipelines, and building telecom knowledge graph solutions for dependency analysis and root cause identification.
 
 
