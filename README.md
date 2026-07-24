@@ -7,9 +7,8 @@ I enjoy solving complex engineering problems at the intersection of **distribute
 
 At **Cisco Webex**, I worked as a **Software Development Engineer II Intern**, where I designed and implemented an **agentic AI system using Model Context Protocol (MCP)** and LLM-based workflows. I built systems where AI agents could dynamically discover, register, and invoke tools at runtime, enabling autonomous task execution through multi-agent reasoning, parallel execution, and intelligent orchestration.
 
-Previously at **BT Group (Tech Mahindra)**, I worked on enterprise-scale distributed systems involving **microservices, cloud infrastructure, Kafka, and knowledge graphs**. I contributed to migrating systems from MongoDB to Neo4j, transforming monolithic applications into scalable microservice architectures, implementing event-driven pipelines, and building telecom knowledge graph solutions for dependency analysis and root cause identification.
+Previously at **BT Group**, I worked on enterprise-scale distributed systems involving **microservices, cloud infrastructure, Kafka, and knowledge graphs**. I contributed to migrating systems from MongoDB to Neo4j, transforming monolithic applications into scalable microservice architectures, implementing event-driven pipelines, and building telecom knowledge graph solutions for dependency analysis and root cause identification.
 
-Currently, I contribute to **distributed systems research at the University of California, Santa Cruz**, focusing on scalable event processing, benchmarking, and high-performance data workflows.
 
 My interests include:
 - 🤖 AI Systems & Agentic AI
