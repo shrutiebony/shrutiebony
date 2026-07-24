@@ -43,7 +43,7 @@ Databases: Neo4j, MongoDB, MySQL, PostgreSQL
 - Developed dependency analysis workflows for root cause analysis.
 - Migrated enterprise systems toward scalable microservice architectures.
 
-##### 🕸️ Graph Intelligence Platform — Rutgers University Research
+##### 🕸️ Graph Intelligence Platform — Rutgers University Research - https://github.com/shrutiebony/graph_algo_graph_ml_systems_project
 
 * Built a distributed knowledge graph pipeline using Kafka, NLP-based entity extraction, MongoDB, and Neo4j to ingest, process, and model large-scale public data sources.
 * Developed graph analytics services using NetworkX and FastAPI for influence analysis, community detection, and graph-based insights, deployed through containerized microservices.
