@@ -70,7 +70,7 @@ Led educational programs, mentored members in communication and leadership, and 
 
 # 📫 Connect
 
-📧 **Email:** [shruti.goyal.zad@gmail.com](mailto:shruti.goyal.zad@gmail.com)
+📧 **Email:** [shruti.goyal@sjsu.edu](mailto:shruti.goyal@sjsu.edu)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/shrutigoyal24/
 
