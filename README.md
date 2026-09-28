@@ -17,4 +17,4 @@ Software engineer in San Jose working on **C++ systems, data-intensive computing
 
 C++ performance measurement, Linux I/O, parallel execution, and scientific workflows on HPC systems. I am interested in reproducible benchmarks and contributions that make scientific applications faster and easier to operate.
 
-[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [KnowledgeOS](https://github.com/shrutiebony/KnowledgeOS) · [LABIOS upstream](https://github.com/grc-iit/labios)
+[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [KnowledgeOS](https://github.com/shrutiebony/KnowledgeOS)
