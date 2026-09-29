@@ -11,4 +11,4 @@ Software engineer in San Jose with 3.5+ years of experience specializing in scal
 * **Infosys & Genpact** — Built REST services and scalable business modules using Node.js, React, and PostgreSQL, setting up CI/CD with Docker and Kubernetes and optimizing database query performance.
 
 
-[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [GitHub](https://github.com/shrutiebony)[cite: 1]
+[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [GitHub](https://github.com/shrutiebony)
