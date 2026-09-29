@@ -10,5 +10,8 @@ Software engineer in San Jose with 3.5+ years of experience specializing in scal
 * **BT Group** — Redesigned a sequential Python workflow into a multiprocessing pipeline with Redis, cutting runtime from 22.5 hours to 40 minutes across 147,000+ products. Refactored monoliths to Spring Boot/React microservices on GCP and built distributed data pipelines using Apache Kafka, gRPC, Spark, Flink, and Airflow.
 * **Infosys & Genpact** — Built REST services and scalable business modules using Node.js, React, and PostgreSQL, setting up CI/CD with Docker and Kubernetes and optimizing database query performance.
 
+## Happy to connect 
+Find me at:
+Portfolio at : https://shrutig-ux.github.io/Portfolio-website/index.html
+LinkedIn at: https://linkedin.com/in/shrutigoyal24
 
-[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [GitHub](https://github.com/shrutiebony)
