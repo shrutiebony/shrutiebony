@@ -12,6 +12,6 @@ Software engineer in San Jose with 3.5+ years of experience specializing in scal
 
 ## Happy to connect 
 Find me at:
-Portfolio at : https://shrutig-ux.github.io/Portfolio-website/index.html
-LinkedIn at: https://linkedin.com/in/shrutigoyal24
+- Portfolio at : https://shrutig-ux.github.io/Portfolio-website/index.html
+- LinkedIn at: https://linkedin.com/in/shrutigoyal24
 
