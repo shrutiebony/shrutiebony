@@ -1,20 +1,17 @@
-# Shruti Goyal
+Software engineer in San Jose with 3.5+ years of experience specializing in scalable microservices, distributed data streaming, and cloud-native systems. Pursuing an MS in Computer Software Engineering at San Jose State University, with recent focus on AI tooling, Model Context Protocol (MCP), and multi-agent systems.
 
-Software engineer in San Jose working on **C++ systems, data-intensive computing, and distributed infrastructure**. I am building a research direction in scientific computing: understanding where data movement and I/O limit real workloads, then measuring and improving the systems underneath them.
+## Current Work & Projects
 
-## Current work
+* **ContractGuardAI & Payment Verification Systems** — Built award-winning AI projects using AWS Bedrock, GCP Vertex AI, Box AI, and custom MCP integrations for dynamic agentic tool composition and automated workflows.
+* **Cisco Webex** — Developed an agentic platform proof of concept managing the full lifecycle and runtime composition of Model Context Protocol (MCP) tools using FastAPI, React.js, and LangGraph/LangChain.
 
-- **[KnowledgeOS](https://github.com/shrutiebony/KnowledgeOS)** — a C++20/CMake application with SQLite and a local HTTP API for analyzing document collections. The repository describes its current architecture, build steps, and limitations.
-- **[LABIOS](https://github.com/grc-iit/labios/tree/labios-2.0)** — studying and contributing to a label-based I/O runtime at Illinois Tech's Gnosis Research Center. My specific fixes and measurements will be linked here as they are completed and reviewed.
+## Earlier Systems Work
 
-## Earlier systems work
+* **BT Group** — Redesigned a sequential Python workflow into a multiprocessing pipeline with Redis, cutting runtime from 22.5 hours to 40 minutes across 147,000+ products. Refactored monoliths to Spring Boot/React microservices on GCP and built distributed data pipelines using Apache Kafka, gRPC, Spark, Flink, and Airflow.
+* **Infosys & Genpact** — Built REST services and scalable business modules using Node.js, React, and PostgreSQL, setting up CI/CD with Docker and Kubernetes and optimizing database query performance.
 
-- At **BT Group**, redesigned a Python workflow with multiprocessing, reducing runtime from **22.5 hours to 40 minutes** across more than 147,000 products while preserving output accuracy.
-- Built services and operational tooling with **Kafka, gRPC, Java/Spring Boot, Python, Docker, and AWS**.
-- At **Cisco Webex**, built a proof of concept for dynamically managing and composing API tools in SRE workflows.
+## What I Am Learning Next
 
-## What I am learning next
+* HPC Systems with Linux and Graphs
 
-C++ performance measurement, Linux I/O, parallel execution, and scientific workflows on HPC systems. I am interested in reproducible benchmarks and contributions that make scientific applications faster and easier to operate.
-
-[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [KnowledgeOS](https://github.com/shrutiebony/KnowledgeOS)
+[LinkedIn](https://linkedin.com/in/shrutigoyal24) · [GitHub](https://github.com/shrutiebony)[cite: 1]
